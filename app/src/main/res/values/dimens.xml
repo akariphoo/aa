@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_lbl_size">20sp</dimen>
+    <dimen name="tv_margin_start_end">20dp</dimen>
+</resources>
